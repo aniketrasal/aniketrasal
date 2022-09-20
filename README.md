@@ -1,4 +1,3 @@
-Background-color="black";
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://aniketrasal.github.io)
 
 
@@ -20,7 +19,7 @@ Background-color="black";
 
 - ⚡ Fun fact **I love coding**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketrasal" alt="aniketrasal" /></a> </p>
+<p align="center" Background-color="black";> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketrasal" alt="aniketrasal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
