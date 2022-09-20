@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://aniketrasal.github)
+[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://aniketrasal.github.io)
 
 
 <h1 align="center">Hi 👋, I'm Aniket Rasal</h1>
