@@ -8,10 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketrasal&label=Profile%20views&color=0e75b6&style=flat" alt="aniketrasal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketrasal" alt="aniketrasal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack We Developer**
+🌱 I’m currently learning **Full Stack We Developer**
 
 - 👨‍💻 All of my projects are available at [aniketrasal.github.io](aniketrasal.github.io)
 
@@ -22,6 +19,9 @@
 - 📄 Know about my experiences [https://bit.ly/3QQe64w](https://bit.ly/3QQe64w)
 
 - ⚡ Fun fact **I love coding**
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
