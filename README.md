@@ -53,8 +53,8 @@
    <a href="https://github.com/aniketrasal/aniketrasal.github.io">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketrasal&repo=aniketrasal.github.io&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
     </a> 
-   <a href="https://github.com/Sab01123/mucho-angle-7709">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sab01123&repo=mucho-angle-7709&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
+   <a href="https://github.com/HARSHAL-AP/project1-Gearbest">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHAL-AP&repo=project1-Gearbest&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
     </a> 
 </p>
 
