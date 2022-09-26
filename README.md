@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Aniket Rasal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"&theme="dark">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketrasal&label=Profile%20views&color=0e75b6&style=flat"&theme="dark" alt="aniketrasal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketrasal&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="aniketrasal" /> </p>
 
 -🌱 I’m currently learning **Full Stack We Developer**
 
@@ -22,7 +22,7 @@
 <p align="center" background-color="black";> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketrasal" alt="aniketrasal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premj44&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="premj44" width="400" /><br/> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketrasal&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="premj44" width="400" /><br/> 
 
 
 <h3 align="center">Connect with me:</h3>
