@@ -45,16 +45,17 @@
 <h2><i>My Top Repositories</i></h2>
 <p >
   <a href="https://github.com/Sab01123/mucho-angle-7709">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sab01123&repo=Farfetch-Clone&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sab01123&repo=mucho-angle-7709
+&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
     </a> 
     <a href="https://github.com/aniketrasal/abandoned-blow-5122">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketrasal&repo=Ayoa-Clone&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketrasal&repo=abandoned-blow-5122&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
     </a> 
     <a href="https://github.com/kriti4666/ZEE-5-Project">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kriti4666&repo=ZEE-5-Clone&locale=en&border_radius=0&theme=dark"                     alt="aniketrasal" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kriti4666&repo=ZEE-5-Project&locale=en&border_radius=0&theme=dark"                     alt="aniketrasal" />
     </a>   
      <a href="https://github.com/HARSHAL-AP/project1-Gearbest">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHAL-AP&repo=Gearbest-Clone&locale=en&border_radius=0&theme=dark"                    alt="aniketrasal" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHAL-AP&repo=project1-Gearbest&locale=en&border_radius=0&theme=dark"                    alt="aniketrasal" />
     </a>   
 </p>
 
