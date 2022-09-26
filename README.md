@@ -21,8 +21,7 @@
 
 <p align="center" background-color="black";> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketrasal&theme=dark" alt="aniketrasal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketrasal&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="premj44" width="400" /><br/> 
+
 
 
 <h3 align="center">Connect with me:</h3>
@@ -39,3 +38,28 @@
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketrasal&show_icons=true&locale=en&theme=dark"alt="aniketrasal" /></p>
 
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketrasal&theme=dark" alt="aniketrasal" /></p>
+
+
+<!-------Main Repository Section------------->
+
+<h2><i>My Top Repositories</i></h2>
+<p >
+  <a href="https://github.com/Sab01123/mucho-angle-7709">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sab01123&repo=Nordstrom-Clone&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
+    </a> 
+    <a href="https://github.com/aniketrasal/abandoned-blow-5122">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketrasal&repo=DeccanHerald-Clone&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
+    </a> 
+    <a href="https://github.com/kriti4666/ZEE-5-Project">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kriti4666&repo=Nifty-Clone&locale=en&border_radius=0&theme=dark"                     alt="aniketrasal" />
+    </a>   
+     <a href="https://github.com/HARSHAL-AP/project1-Gearbest">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHAL-AP&repo=J.Crew-Clone&locale=en&border_radius=0&theme=dark"                    alt="aniketrasal" />
+    </a>   
+</p>
+
+
+<!-------Main Repository Section End------------->
+<a href="https://github.com/aniketrasal/github-readme-activity-graph">
+  <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aniketrasal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
