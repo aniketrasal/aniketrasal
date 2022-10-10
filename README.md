@@ -9,7 +9,7 @@
 
 -🌱 I’m currently learning **Full Stack We Developer**
 
-- 👨‍💻 All of my projects are available at (aniketrasal.github.io)
+- 👨‍💻 All of my projects are available at [https//aniketrasal.github.io](aniketrasal.github.io)
 
 - 💬 Ask me about **REACT, Javascript,HTML,CSS**
 
