@@ -2,7 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Aniket Rasal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi Everyone, I am Aniket Rasal from Pune, Maharashtra, India.
+I am a Full Stack Web Developer and Mechanical Engineer.
+An Motived and hardworking individual, Ready to apply my knowledge into Practice,
+I have a diverse sets of skills, Who is ready to take challenging and critical phase
+to accomplish the goals.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketrasal&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="aniketrasal" /> </p>
