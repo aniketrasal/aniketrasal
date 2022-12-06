@@ -49,10 +49,7 @@
     </a> 
    <a href="https://github.com/kriti4666/ZEE-5-Project">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kriti4666&repo=ZEE-5-Project&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
-    </a> 
-   <a href="https://github.com/aniketrasal/aniketrasal.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketrasal&repo=aniketrasal.github.io&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
-    </a> 
+    </a>
    <a href="https://github.com/HARSHAL-AP/project1-Gearbest">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHAL-AP&repo=project1-Gearbest&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
     </a> 
