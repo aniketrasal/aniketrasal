@@ -54,7 +54,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHAL-AP&repo=project1-Gearbest&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
     </a> 
   <a href="https://github.com/shivamgupta8482/boss-development-1619">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketrasal&repo=boss-development-1619&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamgupta8482&repo=boss-development-1619&locale=en&border_radius=0&theme=dark"             alt="aniketrasal" />
     </a> 
 </p>
 
